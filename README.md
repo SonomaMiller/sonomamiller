@@ -18,7 +18,7 @@
 ---
 
 - 👨‍💻 I am an Informatics - Data Science student at the University of Washington in Seattle.
-- 💬 Ask me about my experience with data storytelling, visualizations, and programming.
+- 💬 Ask me about my experience with data storytelling, data visualizations, and data programming.
 - ⛰️ Outside of work, you can find me backpacking, cycling, or hiking in the mountains.
 
 ## 🛠 &nbsp;Tech Stack
