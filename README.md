@@ -38,6 +38,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%2523E20000.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-white?style=for-the-badge&logo=plotly&logoColor=white&labelColor=%237A76FF&color=%237A76FF)
+![NetworkX](https://img.shields.io/badge/NetworkX-white?style=for-the-badge&color=white)
 ![SciPy](https://img.shields.io/badge/SciPy-white?style=for-the-badge&logo=SciPy&logoColor=white&labelColor=%238CAAE6&color=%238CAAE6)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-white?style=for-the-badge&logo=SpaCy&logoColor=white&labelColor=%2309A3D5&color=%2309A3D5)
@@ -100,4 +101,4 @@
 
 Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
 
-Last Edited on: 23/06/2025
+Last Edited on: 28/08/2025
