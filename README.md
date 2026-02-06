@@ -26,11 +26,12 @@
 #### 🔧 Languages
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2C%2000758F?style=for-the-badge&logo=sql&logoColor=white)
 ![R](https://img.shields.io/badge/R-%252314354C.svg?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![P5.JS](https://img.shields.io/badge/p5.js%20-%23FF26BE.svg?style=for-the-badge&logo=p5.js&logoColor=white)
+![P5.JS](https://img.shields.io/badge/p5.js-%20-%23FF26BE.svg?style=for-the-badge&logo=p5.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### 📚 Libraries and APIs
