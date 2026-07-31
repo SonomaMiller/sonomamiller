@@ -75,7 +75,8 @@
 
  <div align=center>
 
- [![Sonoma's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sonomamiller&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Sonoma's GitHub stats](https://github-stats-extended.vercel.app/api?username=sonomamiller&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+
 
  </div>
 
