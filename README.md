@@ -71,23 +71,6 @@
 
  </div>
 
-### 📊 Most Used Languages
-
- <div align=center>
-
- [![Sonoma's GitHub stats](https://github-stats-extended.vercel.app/api?username=sonomamiller&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
-
-
- </div>
-
- ### 📈 Activity Graph
-
- <div align=center>
-
- [![Sonoma's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonomamiller&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- </div>
-
 ---
 
 ### 🔗 &nbsp;Contact Me
