@@ -63,12 +63,9 @@
 
 ## 📊 Profile Statistics
 
- ### 💳 Github Profile Summary Card
-
  <div align=center>
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonomamiller&theme=github_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonomamiller&theme=moonlight&animation=draw&name=Sonoma+Miller)
  </div>
 
 ---
